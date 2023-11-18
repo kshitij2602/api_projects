@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodejs": "^0.0.0"
+  },
+  "name": "express",
+  "description": "API\"s",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kshitij2602/api_projects.git"
+  },
+  "author": "kshitij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshitij2602/api_projects/issues"
+  },
+  "homepage": "https://github.com/kshitij2602/api_projects#readme"
+}
